@@ -1,0 +1,16 @@
+.four-zero-three {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 80vh;
+}
+.four-zero-three > .inner {
+  padding: 20px;
+}
+.four-zero-three .display4 {
+  color: #5ab8f8;
+}
+.four-zero-three .display2 {
+  color: #000;
+}

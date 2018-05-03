@@ -1,0 +1,16 @@
+.five-hundred {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 80vh;
+}
+.five-hundred > .inner {
+  padding: 20px;
+}
+.five-hundred .display4 {
+  color: #5ab8f8;
+}
+.five-hundred .display2 {
+  color: #000;
+}

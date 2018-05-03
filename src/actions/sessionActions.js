@@ -18,3 +18,8 @@ export function loginUser(credentials) {
     });
   };
 }
+
+export function logOutUser() {
+  auth.logOut();
+  return {type: types.LOG_OUT}
+}

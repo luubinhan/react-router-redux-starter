@@ -4,8 +4,6 @@ import { createStore } from 'redux';
 
 import Router from './Router'
 
-import './App.css';
-
 const initialState = {
   count: 0
 };

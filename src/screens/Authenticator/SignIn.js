@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import PropTypes from 'prop-types';
 
 class SignIn extends Component {
   render() {
@@ -10,9 +9,5 @@ class SignIn extends Component {
     );
   }
 }
-
-SignIn.propTypes = {
-
-};
 
 export default SignIn;
